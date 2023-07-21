@@ -1,6 +1,5 @@
 <component name="libraryTable">
-  <library name="Maven: jakarta.mvc:jakarta.mvc-api:2.1.0" type="java-imported" external-system-id="Maven">
-    <properties groupId="jakarta.mvc" artifactId="jakarta.mvc-api" version="2.1.0" />
+  <library name="Maven: jakarta.mvc:jakarta.mvc-api:2.1.0">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/jakarta/mvc/jakarta.mvc-api/2.1.0/jakarta.mvc-api-2.1.0.jar!/" />
     </CLASSES>
