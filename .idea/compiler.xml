@@ -9,5 +9,8 @@
         <module name="ActividadM5Java" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ActividadM5Java" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
